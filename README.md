@@ -1,2 +1,2 @@
-# Proyecto-TPV
+# Proyecto TPV de cafetería/panadería
 Proyecto Programacion/ED
